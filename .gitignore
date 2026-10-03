@@ -1,0 +1,10 @@
+# Secrets — see Secrets.example.plist
+Stash/Secrets.plist
+
+# Xcode
+xcuserdata/
+DerivedData/
+*.xcuserstate
+
+# macOS
+.DS_Store
